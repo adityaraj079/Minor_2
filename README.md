@@ -12,7 +12,10 @@ Sarthak Srivastava
 ### Working of Holistic MediaPipe
 
 
-https://user-images.githubusercontent.com/55791929/187017917-90b0d28b-7bb6-4c3e-b6fb-41c89505b8f6.mp4
+
+
+https://user-images.githubusercontent.com/55791929/187018007-c80828b5-4f33-4691-9bd4-bcfee986e5dc.mp4
+
 
 
 ### Working of the whole model
